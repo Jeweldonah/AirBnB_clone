@@ -3,7 +3,6 @@
 </div>
 
 
-
 # AirBnB Clone - The Console Project
 
 ## Description
